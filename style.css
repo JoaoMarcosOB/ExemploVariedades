@@ -46,6 +46,8 @@ html {
 
 body {
   font: 400 1.3rem var(--body-font);
+  text-shadow: rgba(0, 0, 0, 0.30) 1px 1px;
+  font-weight: bold;
   color:black;
   -webkit-font-smoothing: antialiased;
   background: radial-gradient(circle at 10% 10%, white 5%, transparent 10%),
